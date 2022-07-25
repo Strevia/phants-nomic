@@ -1,2 +1,2 @@
 ### active players
-Phantasy
+Phantasy - Moderator
