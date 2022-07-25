@@ -1,6 +1,6 @@
 ### active players
-Phantasy - Moderator
+Phantasy - Moderator, Points: 0
 
-Cheter - Player
+Cheter - Player, Points: 0
 
-bmattblake - Player
+bmattblake - Player, Points: 0
