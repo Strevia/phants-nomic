@@ -1,5 +1,5 @@
 ### active players
-Phantasy - Moderator, Points: 0
+Phantasy - Moderator, Points: 1
 
 Cheter - Player, Points: 0
 
