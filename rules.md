@@ -9,3 +9,5 @@
 4. Anytime a player proposes a rule and it passes, they get 1 point. All players start with 0 points after this rule is passed.
 
 5. Points are used to place blocks.
+
+6. Rules should be positive and affirmative of actions players can take, avoid negative language in rules. IF you must disallow something with a rule keep the ratio of positive to negative rules to under 3:1. 
