@@ -10,4 +10,4 @@
 
 5. Points are used to place blocks.
 
-6. Rule's should be positive and Afermative of actions players can take, avoid negative language in rules. IF you must disallow something with a rule keep the ratio of positive to negative rules to 3:1. 
+6. Rules should be positive and affirmative of actions players can take, avoid negative language in rules. IF you must disallow something with a rule keep the ratio of positive to negative rules to under 3:1. 
