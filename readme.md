@@ -12,6 +12,9 @@ The goal of nomic is to win, but how you win can change with each move. Each act
 
 To participate all you need is a [github account](https://github.com/join) and a basic understanding of [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Rules will always be recorded in the **[Rules.md](./rules.md)** and all information about players and resources will be recorded in the **[Players.md](./players.md)**.
 
+### getting started
+Refer the **[Invitation.md](invitation.md)** for instructions on how to join.
+
 ### propose a rule amendment
 1. Click `rules.md`, then click the pencil icon to edit the file.
 1. Write your proposed change in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Give a short title to your change and then a more in-depth reasoning behind it.
@@ -26,8 +29,14 @@ To participate all you need is a [github account](https://github.com/join) and a
 1. Write your comment or vote. For voting, use the reactions on the top comment to vote. :+1: to vote for it and :-1: to vote against.
 1. Only mods can merge in approved pull requests. Once a pull request is approved following the current rules, add a message to the pull request using `@modname` to notify the mod it's ready to be merged. They will then double check it and merge it.
 
-### getting started
-Refer the **[Invitation.md](invitation.md)** for instructions on how to join.
+### take an action
+Rules as part of Nomic may allow you to perform actions within the game. To take one of these actions:
+1. Click the 'Issues' along the top.
+2. Click the green "New issue" button near the right of the screen.
+3. Click the "get started" button next to Perform an action.
+4. Fill out all fields with the name of the action, which rule allows you to take the action, and your expected outcome.
+5. Press "submit new issue" at the bottom.
+Once your action has been submitted, a moderator will review it and make any necessary changes. If you disagree with any of the moderator's decisions, you may dispute it as any other disagreement.
 
 ## other rules
 
