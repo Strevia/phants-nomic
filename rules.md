@@ -6,7 +6,7 @@
 
 3. All rules should have a number, which counts sequentially up with each new rule.
 
-4. Anytime a player proposes a rule and it passes, they get 1 point. All players start with 0 points after this rule is passed.
+4. Anytime a player proposes a change to rules.md and it passes, they get 1 point. All players start with 0 points after this rule is passed.
 
 5. Points are used to place Kilocubit-sized blocks.
 
