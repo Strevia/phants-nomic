@@ -11,3 +11,5 @@
 5. Points are used to place Kilocubit-sized blocks.
 
 6. Rules should be positive and affirmative of actions players can take, avoid negative language in rules. IF you must disallow something with a rule keep the ratio of positive to negative rules to under 3:1. 
+
+7. Whoever builds a tower that reaches the Moon first wins. It takes 84,000,000 cubit-sized blocks to reach the Moon.
