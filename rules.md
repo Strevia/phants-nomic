@@ -14,4 +14,4 @@
 
 7. Whoever builds a tower that reaches the Moon first wins. It takes 84,000,000 cubit-sized blocks to reach the Moon.
 
-8. Players gain a multipleier to their points based on the floored log base 2 number of blocks in their tower. The full formula can be found in apendex_F.md. 
+8. Players gain a multiplier to their points based on the floored log base 2 number of blocks in their tower. The full formula can be found in apendix_F.md. 
