@@ -1,6 +1,6 @@
 ## Rules
 
-1. All players must agree to any changes to these rules.
+1. All players must agree to any changes to these rules, including all files in the folder containg these rules.
 
 2. Any player may choose to go inactive at anytime. Inactive players do not need to vote on new rules.
 
@@ -15,3 +15,4 @@
 7. Whoever builds a tower that reaches the Moon first wins. It takes 84,000,000 cubit-sized blocks to reach the Moon.
 
 8. Players gain a multiplier to their points based on the floored log base 2 number of blocks in their tower. The full formula can be found in apendix_F.md. 
+
