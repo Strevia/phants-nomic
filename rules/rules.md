@@ -19,6 +19,6 @@
 
 9. Once a block has been built, a player may add it to their tower at a point cost equal to the current height of the player's tower in number of blocks. 
 
-
+10. Players must place the text of a prosed rule change in the description of the pull request. 
 
 
