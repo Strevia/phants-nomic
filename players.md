@@ -1,5 +1,5 @@
 ### active players
-Phantasy - Moderator, Points: 3
+Phantasy - Moderator, Points: 4
 
 Smada - Player, Points: 3
 
