@@ -17,7 +17,9 @@
 
 8. Players gain a multiplier to their points based on the floored log base 2 number of blocks in their tower. The full formula can be found in apendix_F.md. 
 
-9. Once a block has been built, a player may add it to their tower at a point cost equal to the current height of the player's tower in number of blocks. 
+9. Once a block has been built, a player may add it to their tower at a point cost equal to the current height of the player's tower in number of blocks.
+
+10. Players may create additional features which they can add to their towers. When creating a feature, a player needs to specify: a name, a cost in blocks and/or points, and a unique effect. These features will be stored in appendix_T.md.
 
 
 
