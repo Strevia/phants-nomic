@@ -5,7 +5,7 @@ Tower: 2 blocks tall
 
 Smada - Player, Points: 2
 
-Tower 2 blocks tall
+Tower: 2 blocks tall
 
 ### inactive players
 
