@@ -4,7 +4,7 @@
 
 2. Any player may choose to go inactive at anytime. Inactive players do not vote on new rules. Inactive players may choose to become active again at any time. 
 
-3. All rules should have a number, which counts sequentially up with each new rule.
+3. All rules should have a number, which counts sequentially up with each new rule. 
 
 4. Anytime a player proposes a change to rules.md and it passes, they get 1 point. All players start with 0 points after this rule is passed.
 
@@ -19,6 +19,6 @@
 
 9. Once a block has been built, a player may add it to their tower at a point cost equal to the current height of the player's tower in number of blocks. 
 
-
+↊. This game of nomic uses dozenal base system. The digits used to represent numerals are: 0 (zero) 1 (One), 2 (Two), 3 (Three), 4 (Four), 5 (Five), 6 (Six) 7 (Seven), 8 (Eight), 9 (Nine),  ↊ (Dex), ↋ (El).  
 
 
