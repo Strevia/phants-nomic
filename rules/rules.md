@@ -20,4 +20,4 @@
 
 10. Players may create additional features which they can add to their towers. When creating a feature, a player needs to specify: a name, a cost in blocks and/or points, and a unique effect. These features will be stored in appendix_T.md.
 
-11. Heroes have 4 stats between 1-5, ATK (Attack) MAG (Magic) DEF (Defense) SPD (Speed). When a new hero object is created it has 15 XP to allocate among those four stats, the first and second rank take 1 XP, the theird and fourth rank take 2 XP, and the fith rank takes 3 XP to purchace.  
+11. Heroes have four main stats between 1-5, BDY (Body) MAG (Magic) DEF (Defense) SPD (Speed). When a new hero object is created it has 15 XP to allocate among those four stats, the first and second rank take 1 XP, the theird and fourth rank take 2 XP, and the fith rank takes 3 XP to purchace.  
