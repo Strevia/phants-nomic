@@ -12,9 +12,9 @@ Effect: Single-use, lets you destroy one block from another player's tower
 
 Example of a Hero:
   Name: "Gerald Fort",
-  Lvl: 1
-  HP : 10
-  BDY: 1 (1 XP)
-  MAG: 5 (9 XP)
-  DEF: 1 (1 XP)
-  SPD: 3 (4 XP)
+  Lvl: 1,
+  HP : 10,
+  BDY: 1 (1 XP),
+  MAG: 5 (9 XP),
+  DEF: 1 (1 XP),
+  SPD: 3 (4 XP),
