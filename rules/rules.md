@@ -2,7 +2,7 @@
 
 1. All players must agree to any changes to these rules, including all files in the folder containg these rules.
 
-2. Any player may choose to go inactive at anytime. Inactive players do not need to vote on new rules.
+2. Any player may choose to go inactive at anytime. Inactive players do not vote on new rules. Inactive players may choose to become active again at any time. 
 
 3. All rules should have a number, which counts sequentially up with each new rule.
 
@@ -17,7 +17,9 @@
 
 8. Players gain a multiplier to their points based on the floored log base 2 number of blocks in their tower. The full formula can be found in apendix_F.md. 
 
-9. Once a block has been built, a player may add it to their tower at a point cost equal to the current height of the player's tower in number of blocks. 
+9. Once a block has been built, a player may add it to their tower at a point cost equal to the current height of the player's tower in number of blocks.
+
+10. Players may create additional features which they can add to their towers. When creating a feature, a player needs to specify: a name, a cost in blocks and/or points, and a unique effect. These features will be stored in appendix_T.md.
 
 10. Players must place the text of a prosed rule change in the description of the pull request. 
 
