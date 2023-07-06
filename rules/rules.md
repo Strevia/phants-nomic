@@ -21,6 +21,6 @@
 
 10. Players may create additional features which they can add to their towers. When creating a feature, a player needs to specify: a name, a cost in blocks and/or points, and a unique effect. These features will be stored in appendix_T.md.
 
-
+11. Starting 24 hours after this rule is passed, every 24 hours thereafter is considered a new day. 
 
 
