@@ -1,8 +1,8 @@
 ## Rules
 
-1. All players must agree to any changes to these rules, including all files in the folder containing these rules.
+1. All active players must agree to any changes to these rules, including all files in the folder containing these rules. If an inactive player votes no on a proposal, it cannot take effect.
 
-2. Any player may choose to go inactive at anytime. Inactive players do not vote on new rules. Inactive players may choose to become active again at any time. 
+2. Any player may choose to go inactive at anytime. Inactive players do not have to vote on new rules. Inactive players may choose to become active again at any time.
 
 3. All rules should have a number, which counts sequentially up with each new rule.
 
