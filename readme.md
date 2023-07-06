@@ -1,5 +1,5 @@
 # nomic
-Github-based game of [Nomic](https://en.wikipedia.org/wiki/Nomic), a game where the only move is to change the [rules of the game](rules.md).
+Github-based game of [Nomic](https://en.wikipedia.org/wiki/Nomic), a game where the only move is to change the [rules of the game](/rules/rules.md).
 
 ## what is nomic
 
