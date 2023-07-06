@@ -25,6 +25,7 @@ ignore$
 \.gif$
 \.git-blame-ignore-revs$
 \.gitattributes$
+\.github$
 \.graffle$
 \.gz$
 \.icns$
