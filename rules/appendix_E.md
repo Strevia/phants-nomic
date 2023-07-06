@@ -9,3 +9,5 @@ Name: Laser Cannon
 Cost: 10 points
 
 Effect: Single-use, lets you destroy one block from another player's tower
+
+Casino Example: Q bets 5 points in the casino. It is currently 21:34:56. This is even, so Q gets 5 points.
