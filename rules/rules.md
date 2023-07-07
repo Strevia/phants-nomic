@@ -20,4 +20,6 @@
 
 10. Players may create additional features which they can add to their towers. When creating a feature, a player needs to specify: a name, a cost in blocks and/or points, and a unique effect. These features will be stored in appendix_T.md.
 
-11. For every tenth rule that is passed, every player (active or inactive) gain 3 points. These points are not effected by rule 8. 
+11. The maximum number of features a tower can support is equal to its height.
+
+12. For every tenth rule that is passed, every player (active or inactive) gain 3 points. These points are not effected by rule 8. 
