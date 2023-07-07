@@ -22,4 +22,4 @@
 
 11. The maximum number of features a tower can support is equal to its height.
 
-13. Days are counted from 00:00 UCT.
+13. Days are counted from 00:00 UTC.
