@@ -10,6 +10,8 @@ Cost: 10 points
 
 Effect: Single-use, lets you destroy one block from another player's tower
 
+If you have a tower that is 12 blocks tall and 3 features you would have space for 9 more features. 
+
 Example of a Hero:   
   Name: "Gerald Fort",   
   Lvl: 1,   
