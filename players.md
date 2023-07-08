@@ -1,9 +1,9 @@
 ### active players
-Phantasy - Moderator, Points: 3
+Phantasy - Moderator, Points: 5
 
 Tower: 2 blocks tall
 
-Smada - Player, Points: 2
+Smada - Player, Points: 4
 
 Tower: 2 blocks tall
 
