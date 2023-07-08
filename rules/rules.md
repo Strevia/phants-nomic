@@ -21,3 +21,5 @@
 10. Players may create additional features which they can add to their towers. When creating a feature, a player needs to specify: a name, a cost in blocks and/or points, and a unique effect. These features will be stored in appendix_T.md.
 
 11. The maximum number of features a tower can support is equal to its height.
+
+12. Each new day starts at 00:00 UTC. Anything which references a number of days passing is referring to this.
