@@ -22,4 +22,4 @@
 
 11. The maximum number of features a tower can support is equal to its height.
 
-12. For every tenth rule that is passed, every player (active or inactive) gain 3 points. These points are not effected by rule 8. 
+12. For every tenth rule that is passed, every player (active or inactive) gains 3 points. These points are not effected by rule 8. This rule applies retroactivly and postactivley for any new players that join the game. 
