@@ -1,5 +1,5 @@
 ### active players
-Phantasy - Moderator, Points: 3
+Phantasy - Moderator, Points: 5
 
 Tower: 2 blocks tall
 
