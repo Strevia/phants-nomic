@@ -22,4 +22,6 @@
 
 11. The maximum number of features a tower can support is equal to its height.
 
-12. For every tenth rule that is passed, every player (active or inactive) gains 3 points. These points are not effected by rule 8. This rule applies retroactivly and postactivley for any new players that join the game. 
+12. Each new day starts at 00:00 UTC. Anything which references a number of days passing is referring to this.
+
+13. For every tenth rule that is passed, every player (active or inactive) gains 3 points. These points are not effected by rule 8. This rule applies retroactively for any new players that join the game. 
