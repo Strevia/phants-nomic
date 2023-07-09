@@ -1,8 +1,8 @@
 ## Rules
 
-1. All players must agree to any changes to these rules, including all files in the folder containing these rules.
+1. All active players must agree to any changes to these rules, including all files in the folder containing these rules.
 
-2. Any player may choose to go inactive at anytime. Inactive players do not vote on new rules. Inactive players may choose to become active again at any time. 
+2. Any player may choose to go inactive at anytime. Inactive players do not need to vote on new rules. Inactive players may choose to become active again at any time. 
 
 3. All rules should have a number, which counts sequentially up with each new rule.
 
@@ -24,4 +24,6 @@
 
 12. Each new day starts at 00:00 UTC. Anything which references a number of days passing is referring to this.
 
-13. For every tenth rule that is passed, every player (active or inactive) gains 3 points. These points are not effected by rule 8. This rule applies retroactively for any new players that join the game. 
+13. For every tenth rule that is passed, every player (active or inactive) gains 3 points. These points are not effected by rule 8. This rule applies retroactively for any new players that join the game.
+
+14. Inactive players may choose to vote or abstain on changes. A simple majority of non-abstaining inactive players must agree to any changes. Additionally, changes may not be merged until either (a) a majority of inactive players approve the change or (b) 48 hours have passed for a change to rules.md, or 24 hours for any other rule change.
