@@ -9,8 +9,8 @@ Tower: 2 blocks tall
 
 ### inactive players
 
-Cheter - Player, Points: 0
+Cheter - Player, Points: 3
 
-bmattblake - Player, Points: 0
+bmattblake - Player, Points: 3
 
-gusdefrog - Player, Points: 0
+gusdefrog - Player, Points: 3
