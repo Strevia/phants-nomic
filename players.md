@@ -1,17 +1,18 @@
 ### active players
 
-Phantasy - Moderator, Points: 10
+Phantasy - Moderator, Points: 13
 
 Tower: 2 blocks tall
 
-Smada - Player, Points: 9
+Smada - Player, Points: 7
 
-Tower: 2 blocks tall
+Tower: 4 blocks tall
 
 ### inactive players
 
-Cheter - Player, Points: 5
+Cheter - Player, Points: 8
 
-bmattblake - Player, Points: 5
+bmattblake - Player, Points: 8
 
-gusdefrog - Player, Points: 5
+gusdefrog - Player, Points: 8
+
