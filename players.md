@@ -3,7 +3,7 @@ Phantasy - Moderator, Points: 5
 
 Tower: 2 blocks tall
 
-Smada - Player, Points: 4
+Smada - Player, Points: 6
 
 Tower: 2 blocks tall
 
