@@ -1,8 +1,10 @@
 ### active players
 
-Phantasy - Moderator, Points: 5
+Phantasy - Moderator, Points: 1
 
-Tower (Height 3, Pop 2):
+Tower (Height 4, Pop 2):
+
+Empty
 
 Apartment
 
