@@ -2,9 +2,13 @@
 
 Phantasy - Moderator, Points: 44
 
-Tower (Height 6, Pop 8):
+Tower (Height 8, Pop 12):
 
 Empty
+
+Apartment
+
+Apartment
 
 Apartment
 
