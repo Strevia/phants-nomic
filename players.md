@@ -1,22 +1,12 @@
 ### active players
 
-Phantasy - Moderator, Points: 79
+Phantasy - Moderator, Points: 2
 
-Tower (Height 8, Pop 12):
+Tower (Height 11, Pop 8/18):
 
-Empty
+Mines (10/10)
 
-Apartment
-
-Apartment
-
-Apartment
-
-Apartment
-
-Apartment
-
-Apartment
+Apartment x 9
 
 Tower Hall
 
