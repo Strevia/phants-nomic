@@ -24,4 +24,6 @@
 
 12. Each new day starts at 00:00 UTC. Anything which references a number of days passing is referring to this.
 
-13. For every tenth rule that is passed, every player (active or inactive) gains 3 points. These points are not effected by rule 8. This rule applies retroactively for any new players that join the game. 
+13. For every tenth rule that is passed, every player (active or inactive) gains 3 points. These points are not effected by rule 8. This rule applies retroactively for any new players that join the game.
+
+14. When a tower contains 10 of the same basic tower features, these features are combined into a single "Mk 2" version. If a player wishes to continue building this feature, they must use Mk 2 versions. Mk 2 versions of tower features cost 20x as much as their basic counterparts, require 10 height instead of 1, and provide 10x the effect of the basic tower feature.
