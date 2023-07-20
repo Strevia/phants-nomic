@@ -1,6 +1,6 @@
 ### active players
 
-Phantasy - Moderator, Points: 7
+Phantasy - Moderator, Points: 79
 
 Tower (Height 8, Pop 12):
 
@@ -20,7 +20,7 @@ Apartment
 
 Tower Hall
 
-Smada - Player, Points: 57
+Smada - Player, Points: 84
 
 Tower (Height 4, Pop 6):
 
