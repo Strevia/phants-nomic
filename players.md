@@ -1,6 +1,6 @@
 ### active players
 
-Phantasy - Moderator, Points: 38
+Phantasy - Moderator, Points: 38, Blocks: 1
 
 Tower (Height 11, Pop 8/18):
 
